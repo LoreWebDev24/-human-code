@@ -12,7 +12,7 @@
   - uova
   - carne
   - verdura
-- FINCHè non ho il portafogli, il coupon da 20 euro e la busta della spesa li cerco
+- FINCHè non ho il portafogli, il coupon da 20 euro e la busta della spesa li cerco:
 -SE Dopo aver cercato non ho uno di questi tre pre-requisiti
   -ALLORA non esco e rimando a domani la spesa
 - esco di casa
